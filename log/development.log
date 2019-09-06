@@ -1,0 +1,7 @@
+Started GET "/" for ::1 at 2019-09-04 16:35:17 -0500
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 323ms (Views: 160.0ms)
+
+
