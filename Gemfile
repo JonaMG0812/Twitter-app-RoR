@@ -39,6 +39,7 @@ gem 'mini_magick'
 gem 'will_paginate', '~> 3.1.0'
 
 gem 'jquery-rails'
+gem 'rails-controller-testing'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
