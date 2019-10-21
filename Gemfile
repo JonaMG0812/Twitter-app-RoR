@@ -48,6 +48,10 @@ group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution
   # and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
+  gem 'guard', '2.14.1'
+  gem 'guard-minitest', '2.4.6'
+  gem 'minitest', '5.11.3'
+  gem 'minitest-reporters', '1.1.14'
   # Adds support for Capybara system testing and selenium driver
   gem 'capybara', '>= 2.15'
   gem 'selenium-webdriver'
