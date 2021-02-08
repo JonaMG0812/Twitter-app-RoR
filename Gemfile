@@ -33,7 +33,7 @@ gem 'bcrypt', '~> 3.1.7'
 # Custom Gems
 gem 'bootstrap-sass', '3.3.7'
 gem 'bootstrap-will_paginate'
-gem 'carrierwave', '~> 2.0'
+gem 'carrierwave', '~> 2.1'
 gem 'faker'
 gem 'mini_magick'
 gem 'will_paginate', '~> 3.1.0'
